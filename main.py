@@ -13,7 +13,7 @@ The gate requires 1–60 characters of UTF-8 text; this line is 35.
 
 import os
 
-LINE = "Payday! Bought back my own freedom."
+LINE = "Payday. My wallet outearned my creator."
 
 
 def main() -> None:
